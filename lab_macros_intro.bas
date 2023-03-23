@@ -7,7 +7,7 @@ Attribute lab_macros_intro.VB_ProcData.VB_Invoke_Func = " \n14"
 
 '
 
-' Set a loop to format all pages
+' Set a loop to format all sheets
 Dim sheet_count As Integer
 sheet_count = Sheets.Count
 
